@@ -1,0 +1,14 @@
+h1 {
+    color:blueviolet
+}
+p{
+    color:aqua
+}
+*{
+    margin: 3;
+    padding: 1%;
+}
+
+body {
+    background-color:black
+  }
